@@ -34,7 +34,7 @@ cp .env.example .env.local
 ## Add your Infura API key
 
 ```bash
-VITE_INFURA_API_KEY=your-infura-api-key
+VITE_INFURA_API_KEY=your-f3cf5949b5184b848c72776367127ca8
 ```
 
 ## Run
